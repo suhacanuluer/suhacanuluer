@@ -1,0 +1,14 @@
+## Hi everyone 👋, this is **Suha Can Uluer**
+
+### I’m a **computer engineering student** and junior **backend developer** in Adana, Turkey and working at [Project XR](http://projectxr.com.tr).
+
+#### I enjoy using computer, creating complicated algorithms, developing software and learning new software languages. And let's create and shape the future...
+
+### Skills: 
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='40'>
+
+### Social: 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suhacanuluer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhacanuluer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/suhacanuluer)  
+
