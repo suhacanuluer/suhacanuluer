@@ -1,6 +1,6 @@
 ## Hi everyone 👋, this is **Suha Can Uluer**
 
-### I’m a **computer engineering student** and junior **backend developer** in Adana, Turkey and internship at [Project XR](http://projectxr.com.tr).
+### I’m a **computer engineering student** and junior **backend developer** in Adana, Turkey.
 
 #### I enjoy using computer, creating complicated algorithms, developing software and learning new software languages. And let's create and shape the future...
 
