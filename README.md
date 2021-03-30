@@ -1,6 +1,6 @@
 ## Hi everyone 👋, this is **Suha Can Uluer**
 
-### I’m a computer engineering student and junior backend developer, 22 y.o. from Adana, Turkey.
+### I’m a **computer engineering student** and **junior backend developer**, 22 y.o. from Adana, Turkey.
 
 ### Skills: 
 
