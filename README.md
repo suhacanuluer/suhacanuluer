@@ -3,7 +3,11 @@
 
 ## Connect with me  
 <div align="center">
+  
   <a href="https://twitter.com/suhacanuluer" target="_blank">
+  <img src=https://img.shields.io/badge/website-f3723f.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://t.me/suhacanuluer" target="_blank">
   <img src=https://img.shields.io/badge/telegram-26a5e4.svg?&style=for-the-badge&logo=telegram&logoColor=white color=26a5e4 #alt=telegram style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/suhacanuluer" target="_blank">
