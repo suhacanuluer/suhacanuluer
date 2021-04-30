@@ -15,7 +15,6 @@
 </div>  
 
 ## Github Stats 
-  <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhacanuluer&show_icons=true&theme=dracula&title_color=f3723f&text_color=f3723f&bg_color=0d1117&locale=en&layout=compact" alt="suhacanuluer" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=suhacanuluer&show_icons=true&theme=dracula&title_color=f3723f&text_color=f3723f&bg_color=0d1117&cache_seconds=1800&locale=en" alt="suhacanuluer" /></p>
-</div> 
+
+<a href="https://github.com/suhacanuluer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suhacanuluer&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f3723f&icon_color=f3723f&hide_border=true" /></a>
+<a href="https://github.com/suhacanuluer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhacanuluer&bg_color=0d1117&text_color=bdc3c7&title_color=f3723f&hide_border=true&layout=compact&langs_count=10" /></a>
