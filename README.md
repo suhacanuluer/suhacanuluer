@@ -1,12 +1,21 @@
-## Hi everyone 👋, this is **Suha Can Uluer**
+<h1 align="center">Hi everyone 👋, I'm Suha Can</h1>
+<h3 align="center">I’m a computer engineering student and junior backend developer, 22 y.o. from Adana, Turkey.</h3>
 
-### I’m a **computer engineering student** and **junior backend developer**, 22 y.o. from Adana, Turkey.
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/suhacanuluer" target="_blank">
+<img src=https://img.shields.io/badge/telegram-26a5e4.svg?&style=for-the-badge&logo=telegram&logoColor=white color=26a5e4 #alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/suhacanuluer" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/suhacanuluer" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+  
+</div>  
 
-### Skills: 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhacanuluer&show_icons=true&theme=dracula&title_color=f3723f&text_color=f3723f&bg_color=0d1117&locale=en&layout=compact" alt="suhacanuluer" /></p>
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='40'>
-
-### Social: 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suhacanuluer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhacanuluer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/suhacanuluer)  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhacanuluer&show_icons=true&theme=dracula&title_color=f3723f&text_color=f3723f&bg_color=0d1117&cache_seconds=1800&locale=en" alt="suhacanuluer" /></p>
+ e4
