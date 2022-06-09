@@ -1,4 +1,4 @@
-<h2 align="center">Hi everyone 👋, I'm Suha Can</h2>
+<h2 align="center">Hi everyone 👋, I'm Süha Can</h2>
 <p align="center">I am a junior year <strong>computer engineering student</strong>. I like to develop in the <strong>backend</strong> using Java and Nodejs. Also, during my practice and studies, I realized that I was interested in <strong>DevOps</strong>. I am trying to improve myself in these areas. I am a person who enjoys research, who likes to be intertwined with technology, teamwork and generating ideas together.</p>
 
 ## Connect with me  
