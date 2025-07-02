@@ -13,9 +13,6 @@
   <a href="https://twitter.com/suhacanuluer" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="https://t.me/suhacanuluer" target="_blank">
-  <img src=https://img.shields.io/badge/telegram-26a5e4.svg?&style=for-the-badge&logo=telegram&logoColor=white color=26a5e4 #alt=telegram style="margin-bottom: 5px;" />
-  </a>
   
 ### Languages and Tools
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
